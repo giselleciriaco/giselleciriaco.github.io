@@ -14,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. Electronic textiles 
+Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. While wearbale technology may not be a necessity at the moment, the growth of using electronic textiles could see the rise in a new form of technology.
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
