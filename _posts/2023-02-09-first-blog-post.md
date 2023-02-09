@@ -14,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. Electronic textiles 
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
