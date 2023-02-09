@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electronic Textiles!
-subtitle: Each post also has a subtitle
+subtitle: The journey to e-textiles!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
