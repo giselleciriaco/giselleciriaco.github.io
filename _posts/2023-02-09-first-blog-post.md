@@ -16,16 +16,6 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. While wearbale technology may not be a necessity at the moment, the growth of using electronic textiles could see the rise in a new form of technology.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
