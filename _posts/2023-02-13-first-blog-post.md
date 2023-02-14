@@ -3,8 +3,8 @@ layout: post
 title: A Closer Look into Me!
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [star, fork]
+tags: 
 comments: true
 ---
 
