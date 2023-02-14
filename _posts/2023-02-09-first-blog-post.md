@@ -8,19 +8,10 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Why I am taking Electronic Textiles**
 
-**Here is some bold text**
+Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. While wearbale technology may not be a necessity at the moment, the growth of using electronic textiles could see the rise in a new use of technology. With the presence of e-textiles, there are more areas in which we can integrate this form of technology into our everyday lives. That is why I have decided to explore a field of computer science currently offered at Williams College. With no prior experience in Computer Science, follow along as I discover my strengths and weaknesses within e-textiles!
 
-## Here is a secondary heading
-
-Did you know that Levis released a smart jean jacket in partner with Google? What seemed to be a fail instead sparked up a conversation on wearable technolgy. While wearbale technology may not be a necessity at the moment, the growth of using electronic textiles could see the rise in a new form of technology.
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
