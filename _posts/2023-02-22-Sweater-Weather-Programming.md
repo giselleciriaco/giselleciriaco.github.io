@@ -1,3 +1,1 @@
-
-
 In this assignment, I was tasked with writing a C-program that would print out the answers to the questions given, using arithmetic. The assignment gives me practice with if..then statements (often called conditionals). I had an integer variable called temperature that I set to have a specific integer value. As a result, my program outputted the statement "SWEATER WEATHER". When it comes to programming, it is very important to do coding in small amounts. If you attempt to do all your coding all at once, you are bound to make a mistake more often than working on it step by step. It is important to test your code as you progress. I surely have seen the importance of this when it comes to coding! 
