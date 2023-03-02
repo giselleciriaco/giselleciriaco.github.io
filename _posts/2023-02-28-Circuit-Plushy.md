@@ -1,3 +1,7 @@
+![IMG_2263](https://user-images.githubusercontent.com/124649732/222338051-e7111969-058d-4c16-ac5b-91eb97047f61.jpg)
+![IMG_2255](https://user-images.githubusercontent.com/124649732/222338063-b37b3174-122d-4b38-bba6-3ca74a55c140.jpg)
+![IMG_2257](https://user-images.githubusercontent.com/124649732/222338068-0138f773-f548-4ace-9900-ced8d27bdc8e.jpg)
+![IMG_2260](https://user-images.githubusercontent.com/124649732/222338082-2151f3a7-7af1-4cf2-adeb-9b2f6a735bef.jpg)
 
 In this assinment, I was tasked with creating a light-up plushy that uses a ligth switch and a button to light on and off depending on what setting the switches are set. I used conductive thread to connect the electronic components and non-conductive thread to sew both the front and back of the plushy together. This project combined both circuits and sewing. When the switch is off, the LEDs will not turn on even if the button is pressed. The only time in which the LEDs will turn on is when the switch is on and the button is pressed!
 For next time, my tracing and cutting needs to improve. As teh fabric was thick and a dark color, it was hard to trace and I did my drawing based on what I saw hence why it is not the prettiest! Testing out if the circuit works before starting with the actual conductive thread is very helpful because you are able to visually see if the circuit you have created works. Take your time as you do not want the conductive thread to tangle or mix with the non-conductive thread or it will prevent your circuit from working. 
