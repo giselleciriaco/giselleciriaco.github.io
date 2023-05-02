@@ -1,1 +1,5 @@
-For my final project, I am creating 
+For my final project, I am creating a wristband that will help you manage your time better when it comes to getting work done. This wristband is called the Break Time, Work Time Wristband and it focuses on preventing you from procrastinating and allows you to be more efficient with your time. It will work similar to the Pomodoro Technique!
+How the Wristband will work:
+When the switch is on, it will start a timer (loop) based on the amount of time you set to do work (30 minutes as an example). Once the timer is done, the buzzer will go off to a certain pattern and the LEDS will turn on and stay on for 30 seconds to alert you that you have a break (5 minutes as an example). The LEDS will then turn on again and the buzzer will go off after the 5 minutes to alert you that it is time to do work again! This will only work when the switch is on. When the switch is in the off position, it just becomes a simple wearable wristband. 
+
+![Paper Prototype_ E-textiles-2](https://user-images.githubusercontent.com/124649732/235572253-575f7293-ae62-46f4-9a8b-560f745f09f0.jpg)
