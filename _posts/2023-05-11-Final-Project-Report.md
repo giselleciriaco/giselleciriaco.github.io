@@ -23,7 +23,7 @@ Use resources like class slides and coding cheat sheets to complete the coding c
 
 ![IMG_2858](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/0b540906-cdbd-4400-940a-0d8daf2b6516)
 ![IMG_2869](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/1eed1131-6837-422f-8d09-25cef2411f2e)
-![IMG_2869](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/ac1f98f7-aa65-472e-bef5-f4e1ede1f11c)
+![IMG_2870](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/9d04157c-b6cf-4e88-b8a3-cefff7ba9dc8)
 
 https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/c07aa0ca-cfe1-4e0d-936f-268ac100339b
 
