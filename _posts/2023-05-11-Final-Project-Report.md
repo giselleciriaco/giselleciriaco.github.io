@@ -21,6 +21,8 @@ Be patient! It will take a long time and every step of the process is important 
 Use nonconductive thread to hold down pieces into place. It makes it a lot easier when you start sewing with conductive thread. This organization also makes sure you can avoid any short circuits if components are held into place
 Use resources like class slides and coding cheat sheets to complete the coding components of the project. These resources provide much help when you are confused why your code does not want to work.
 
+Project Process and Completion Through Images & Videos:
+![IMG_3068](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/4c568dd2-f64c-43ff-9e1c-fe26a52a0de8)
 ![IMG_2858](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/0b540906-cdbd-4400-940a-0d8daf2b6516)
 ![IMG_2869](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/1eed1131-6837-422f-8d09-25cef2411f2e)
 ![IMG_2870](https://github.com/giselleciriaco/giselleciriaco.github.io/assets/124649732/9d04157c-b6cf-4e88-b8a3-cefff7ba9dc8)
